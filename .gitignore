@@ -38,6 +38,6 @@
 archive/
 */tmp/
 */temp/
-tempCodeRunnerFile.*
+*tempCodeRunnerFile*
 *test*
 *cache*
